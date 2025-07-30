@@ -9,7 +9,7 @@ A fully functional RESTful web server in Go for a microblogging platform called 
 - [Environment Variables](#-environment-variables)
 - [Usage](#-usage)
 - [Database & Migrations](#️-database--migrations)
-- [Project Structure](#-project-structure)
+- [Project Structure](#️-project-structure)
 - [Dependencies](#-dependencies)
 - [Troubleshooting](#-troubleshooting)
 
