@@ -3,17 +3,17 @@ A fully functional RESTful web server in Go for a microblogging platform called 
 
 ## 📑 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Usage](#usage)
-- [API Overview](#api-overview)
-- [Database & Migrations](#database--migrations)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Installation](#️-installation)
+- [Environment Variables](#-environment-variables)
+- [Usage](#-usage)
+- [API Overview](#-api-overview)
+- [Database & Migrations](#️-database--migrations)
+- [Project Structure](#-project-structure)
+- [Dependencies](#-dependencies)
+- [Troubleshooting](#-troubleshooting)
+- [License](#-license)
 
 ## 🚀 Introduction
 **Chirpy** is a backend service written in Go for a Twitter-like application. It offers:
